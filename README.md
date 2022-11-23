@@ -43,7 +43,6 @@
 				<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 				<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git"alt="Git" width="40" height="40"/>&nbsp;
 				<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 			</div>
 </div>
@@ -52,8 +51,11 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremyAyza&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D&sideNums=FFFFFF&sideLabels=40A6FF&ring=FF0000&fire=FF0000&dates=12DD70)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremyAyza&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D&sideNums=FFFFFF&sideLabels=40A6FF&ring=FF0000&fire=FF0000&dates=12DD70)](https://git.io/streak-stats)&nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyAyza&show_icons=true&bg_color=000&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&bg_color=000&text_color=12DD70FF&title_color=40A6FFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+
