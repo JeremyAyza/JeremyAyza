@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif" width="200" />
+    <img src="[https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif](https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif)" width="200" />
     <h1 align="center">Hola 👋, Soy Jeremy Ayza</h1>
     <h3 align="center">A passionate web developer from Perú.
 			Me gusta aprender cosas nuevas y practicar constantemente lo que aprendo, mi lenguaje favorito es Javascript por lo flexible que es.
