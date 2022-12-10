@@ -15,7 +15,7 @@
 	<a href="https://t.me/JeremyAyza" Target="_blank" >
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn" />
 	</a>
-	<a href="mailto:jeremyayzax7x@gmail.com" Target="_blank" >
+	<a href="mailto:AyzaJeremyx7x@gmail.com" Target="_blank" >
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" />
 	</a>
 </div>
