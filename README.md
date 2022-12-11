@@ -28,7 +28,7 @@
 
 - 💬 Frameworks que me gusta usar **React.js y Express**
 
-- 📫 Cómo contactarme **JeremyAyzax7x@gmail.com**
+- 📫 Cómo contactarme **Ayzajeremyx7x@gmail.com**
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB y Vue**
 
