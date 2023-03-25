@@ -1,9 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" />
 	<h1 align="center">Hola 👋, Soy Jeremy Ayza</h1>
-	<h4 align="center">Desarrollador Web.
-		Me gusta aprender cosas nuevas y practicar constantemente lo que aprendo, mi lenguaje favorito es Javascript por lo flexible que es.
-		Buscar soluciones novedosas a problemas mediante el razonamiento, logica y pensamiento creativo es lo que me gusta de la programacion.
+	<h4 align="center">un desarrollador web apasionado por aprender y mejorar constantemente. Me especializo en tecnologías web como Javascript, React y Node.js, y me gusta trabajar en proyectos que desafíen mis habilidades y me permitan encontrar soluciones creativas a problemas complejos. Uno de mis proyectos más recientes fue la creación de una aplicación de seguimiento de hábitos usando React y Firebase. En mi tiempo libre, disfruto de la fotografía y de aprender sobre nuevas tecnologías emergentes. La programación es una pasión para mí y siempre estoy emocionado de explorar nuevos conceptos y herramientas para mejorar mis habilidades.
 	</h4>
 </div>
 
@@ -28,7 +26,7 @@
 
 - 💬 Frameworks que me gusta usar **React.js y Express**
 
-- 📫 Cómo contactarme **Ayzajeremyx7x@gmail.com**
+- 📫 Cómo contactarme **Jeremy.ayza@gmail.com**
 
 - 🌱 Actualmente estoy aprendiendo **MongoDB y Vue**
 
