@@ -22,13 +22,18 @@
 
 ### 👨‍💻 About Me :
 
+- 🌐 https://portfolio-jeremyayza.onrender.com/
+
 - 📝 Regularmente suelo practicar creando proyectos personales con diversas tecnologias
 
-- 💬 Frameworks que me gusta usar **React.js y Express**
+- 💬 Stack de tecnologías que me gusta usar: **React, Mongo, Express y Node**
+
+- 🌱 Me gusta aprender a donde sea que voy
 
 - 📫 Cómo contactarme **Jeremy.ayza@gmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **MongoDB y Vue**
+- 💻 https://github.com/JeremyAyza
+
 
 - 🌐 Principales fuentes de aprendizaje <br>
 <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
