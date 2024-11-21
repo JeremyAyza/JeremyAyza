@@ -24,19 +24,13 @@
 
 - 🌐 https://portfolio-jeremyayza.onrender.com/
 
-- 📝 Regularmente suelo practicar creando proyectos personales con diversas tecnologias
+- 💬 Stack de tecnologías que mas utilizo: **Vue, React, Zustand, Bootstrap, Tailwind, Express y Node**
 
-- 💬 Stack de tecnologías que me gusta usar: **React, Mongo, Express y Node**
-
-- 🌱 Me gusta aprender a donde sea que voy
+- 🌱 Me gusta tomar la iniciativa y aprender cosas nuevas
 
 - 📫 Cómo contactarme **Jeremy.ayza@gmail.com**
 
 - 💻 https://github.com/JeremyAyza
-
-
-- 🌐 Principales fuentes de aprendizaje <br>
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
 
 
 <div align="left">
