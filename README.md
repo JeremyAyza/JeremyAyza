@@ -45,13 +45,15 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  		<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/vuejs_logo_icon_168246.png" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
 		<img src="https://static.airpair.com/img/software/node.js.icon.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    		<img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
+   		<img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git"alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+		<img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+		<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
