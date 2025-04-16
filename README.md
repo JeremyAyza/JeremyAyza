@@ -1,65 +1,104 @@
-<div id="header" align="center">
-	<img src="https://media.giphy.com/media/5Zesu5VPNGJlm/giphy.gif" width="200" />
-	<h1 align="center">Hola 👋, Soy Jeremy Ayza</h1>
-<!-- 	<h4 align="center">Un desarrollador web apasionado por aprender y mejorar constantemente. Me especializo en tecnologías web como Javascript, React y Node.js, y me gusta trabajar en proyectos que desafíen mis habilidades y me permitan encontrar soluciones creativas a problemas complejos. Uno de mis proyectos más recientes fue la creación de una aplicación de seguimiento de hábitos usando React y Firebase. En mi tiempo libre, disfruto de la fotografía y de aprender sobre nuevas tecnologías emergentes. La programación es una pasión para mí y siempre estoy emocionado de explorar nuevos conceptos y herramientas para mejorar mis habilidades.
-	</h4> -->
-</div>
+<h1 align="center">Hola 👋 Soy Jeremy Ayza</h1>
+<h3 align="center">Frontend Developer con enfoque Fullstack | Apasionado por la performance, la escalabilidad y la calidad en el código</h3>
+
+<p align="center">
+  <a href="mailto:jeremy.ayza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jeremyayzamatias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/JeremyAyza" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧑‍💼 Sobre mí
+
+Desarrollador Web con **formación técnica en Desarrollo de Sistemas** y más de **3 años de experiencia profesional**, trabajando en **plataformas en producción 24/7**, equipos grandes y startups tecnológicas.
+
+Me especializo en **frontend moderno** con React y Vue, pero también tengo experiencia real con backend (Node.js + Express), bases de datos y arquitectura de soluciones empresariales.
+
+Me apasiona crear interfaces dinámicas, optimizadas, escalables y funcionales. Siempre estoy explorando nuevas herramientas, librerías y buenas prácticas para mejorar mi flujo de trabajo.
+
+---
+
+### 🚀 Lo que me mueve
+
+- Construir dashboards, PWAs, mapas y productos interactivos que funcionen bien en **escenarios reales**.
+- Integrar APIs, scraping y automatizaciones para resolver problemas de negocio.
+- Seguir aprendiendo frameworks como **Next.js**, **Nest.js**, y herramientas como **shadcn/ui**, **TanStack Query** o IA aplicada.
+- Optimizar la experiencia del usuario, el rendimiento y la calidad del código.
+
+---
+
+### 🧰 Tech Stack Actual
+
+#### 💻 Lenguajes & Frameworks
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=fff)
+
+#### 🎨 Estilos & UI
+
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?style=flat-square&logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)
+![Shadcn/ui](https://img.shields.io/badge/-shadcn/ui-111827?style=flat-square&logo=react&logoColor=white)
+
+#### 🛠️ Herramientas & DevOps
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=fff)
+
+#### 📚 Complementarias
+
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat-square&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-ff69b4?style=flat-square)
+![IndexedDB](https://img.shields.io/badge/-IndexedDB-orange?style=flat-square)
+![Service Workers](https://img.shields.io/badge/-Service%20Worker-333?style=flat-square&logo=googlechrome&logoColor=white)
+
+---
+
+### 📌 Experiencia Reciente
+
+#### 💼 CasaMarket — Frontend Developer  
+↳ Sistema empresarial para ventas, inventario y distribución.  
+✓ Optimización de despliegues de 18min → 4min  
+✓ Integración de herramientas como Google Analytics  
+✓ Uso de Service Worker, IndexedDB y librerías como Zustand, TanStack, shadcn/ui  
+
+#### 💼 Inteligenio — Frontend Developer  
+↳ Plataforma educativa para colegios.  
+✓ Desarrollo y mejoras visuales  
+✓ Apoyo en backend con Express y PostgreSQL  
+✓ Coordinación con áreas de pedagogía y diseño
 
 
-<div id="badges" align="center">
-	<a href="https://www.linkedin.com/in/jeremyayzamatias/" Target="_blank" >
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="https://t.me/JeremyAyza" Target="_blank" >
-	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn" />
-	</a>
-	<a href="mailto:AyzaJeremyx7x@gmail.com" Target="_blank" >
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" />
-	</a>
+---
+
+### 📈 Stats
+
+<div align="center">
+	
+  <img src="https://streak-stats.demolab.com?user=JeremyAyza&theme=dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FF9900" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JeremyAyza&show_icons=true&theme=dark&bg_color=0d1117&icon_color=ffa500&text_color=ffffff" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAyza&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff" />
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 🤝 ¿Conectamos?
 
-- 🌐 https://portfolio-jeremyayza.onrender.com/
+Estoy abierto a nuevas oportunidades, proyectos interesantes o colaboraciones.
 
-- 💬 Stack de tecnologías que mas utilizo: **Vue, React, Zustand, Bootstrap, Tailwind, Express y Node**
+📫 **jeremy.ayza@gmail.com**  
+🌍 **[LinkedIn](https://linkedin.com/in/jeremyayzamatias)**  
+🛠️ Portafolio: _en construcción, pronto disponible_
 
-- 🌱 Me gusta tomar la iniciativa y aprender cosas nuevas
-
-- 📫 Cómo contactarme **Jeremy.ayza@gmail.com**
-
-- 💻 https://github.com/JeremyAyza
-
-
-<div align="left">
-	<h3>🔨 Languages and Tools:</h3>
-	<div>
-		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  		<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/vuejs_logo_icon_168246.png" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-		<img src="https://static.airpair.com/img/software/node.js.icon.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-    		<img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-   		<img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-		<img src="https://www.svgrepo.com/show/374118/tailwind.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-		<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-	</div>
-</div>
-
----
-
-### 📊 My Stats :
-
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeremyAyza&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D&sideNums=FFFFFF&sideLabels=40A6FF&ring=FF0000&fire=FF0000&dates=12DD70)](https://git.io/streak-stats)
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyAyza&show_icons=true&bg_color=000&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAyza&bg_color=000&text_color=12DD70FF&title_color=40A6FFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-
+Gracias por visitar mi perfil 🙌
