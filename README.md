@@ -84,11 +84,9 @@ Me apasiona crear interfaces dinámicas, optimizadas, escalables y funcionales. 
 
 <div align="center">
 	
-  <img src="https://streak-stats.demolab.com?user=JeremyAyza&theme=dark&hide_border=true&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FF9900" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremyAyza&show_icons=true&theme=dark&bg_color=0d1117&icon_color=ffa500&text_color=ffffff" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAyza&layout=compact&theme=dark&bg_color=0d1117&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeremyAyza&show_icons=true&theme=dark&bg_color=000&icon_color=12DD70FF&text_color=40A6FFFF&title_color=12DD70FF" />
+  <span style={padding: 10px}></span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyAyza&layout=compact&theme=dark&bg_color=000&text_color=fff&title_color=fff" />
 </div>
 
 ---
