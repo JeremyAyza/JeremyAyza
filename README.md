@@ -15,17 +15,6 @@ Desarrollador Web con **formación técnica en Desarrollo de Sistemas** y más d
 
 Me especializo en **frontend moderno** con React y Vue, pero también tengo experiencia real con backend (Node.js + Express), bases de datos y arquitectura de soluciones empresariales.
 
-Me apasiona crear interfaces dinámicas, optimizadas, escalables y funcionales. Siempre estoy explorando nuevas herramientas, librerías y buenas prácticas para mejorar mi flujo de trabajo.
-
----
-
-### 🚀 Lo que me mueve
-
-- Construir dashboards, PWAs, mapas y productos interactivos que funcionen bien en **escenarios reales**.
-- Integrar APIs, scraping y automatizaciones para resolver problemas de negocio.
-- Seguir aprendiendo frameworks como **Next.js**, **Nest.js**, y herramientas como **shadcn/ui**, **TanStack Query** o IA aplicada.
-- Optimizar la experiencia del usuario, el rendimiento y la calidad del código.
-
 ---
 
 ### 🧰 Tech Stack Actual
